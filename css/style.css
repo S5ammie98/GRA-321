@@ -5,7 +5,9 @@ Background-color:#ECE9E4;
 h1 {
   text-alighn: center;
   font-family: 'Didot', serif;}
-
+  h2 {
+    text-alighn: center;
+    font-family: 'Didot', serif;}
 ul{
   color: black;
   text-alighn: left;
