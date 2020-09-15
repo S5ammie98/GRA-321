@@ -27,3 +27,13 @@ ul{
     text-transformation: uppercase;
     padding: 1em 2em 1em 2em;
   }
+
+.padding-hover:hover {
+  Background-color: Grey;
+  color: white;
+  text-decoration: underline;
+}
+
+.visited-gray: visited {
+  color: LightGray;
+}
