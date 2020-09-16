@@ -3,8 +3,12 @@ Background-color:#ECE9E4;
 }
 
 h1 {
-  text-alighn: center;
-  font-family: 'Didot', serif;}
+  font-family: 'Didot', serif;
+  font-size:52px;
+  Position: relative;
+  text-align:center;
+
+}
   h2 {
     text-alighn: center;
     font-family: 'Didot', serif;}
@@ -35,4 +39,13 @@ ul{
 
 .visited-gray: visited {
   color: LightGray;
+}
+
+.container {
+  background-image: url(#);
+  background-size; contain;
+  background-repeat:no-repeat;
+  height: 700px;
+  margin: 0 auto:auto;
+  width: 50%;
 }
