@@ -62,6 +62,14 @@ ul{
   width: 50%;
 }
 
+h1 {
+  color: #fff;
+  font-size:52px;
+  position:relative;
+  text-align:center;
+
+}
+
 .layout {
   background-image: url(#);
   background-size; contain;
