@@ -1,3 +1,17 @@
+h1 {
+  font-family: 'Didot', serif;
+  font-size:52px;
+  Position: relative;
+  text-align:center;
+
+}
+  h2 {
+    text-alighn: center;
+    font-family: 'Didot', serif;}
+ul{
+  color: black;
+  text-alighn: left;
+  font-family: 'didot', serif;}
 
   button {
     background-color: #E9E6E1;
