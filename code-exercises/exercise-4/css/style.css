@@ -1,65 +1,9 @@
-* {
-Background-color:#ECE9E4;
-}
-
-h1 {
-  font-family: 'Didot', serif;
-  font-size:52px;
-  Position: relative;
-  text-align:center;
-
-}
-  h2 {
-    text-alighn: center;
-    font-family: 'Didot', serif;}
-ul{
-  color: black;
-  text-alighn: left;
-  font-family: 'didot', serif;}
-
-  a: link { color: black; text-decoration: none; }
-  a: visited { color: #D8C4B2; text-decoration: none;}
-  a: active { color: #BE9982; text-decoration: none;}
-  a: hover { color: #968484; text-decoration: none;}
-
-  button {
-    background-color: #14A171;
-    border: none;
-    color: white;
-    font-family: 'Didot', serif;
-    text-transformation: uppercase;
-    padding: 1em 2em 1em 2em;
-  }
-
-.padding-hover:hover {
-  Background-color: Grey;
-  color: white;
-  text-decoration: underline;
-}
-
-/---Media Queries---/
-@media screen and (max-width: 1000px) {
-  body {
-  background-color: #90604C;
-}
-
-@media screen and (max-width: 500px) {
-  body {
-  background-color: #B98E77;
-}
-
-@media screen and (max-width: 250px) {
-  body {
-  background-color: #C0A290;
-}
-
 .container {
-  background-image: url(https://images.unsplash.com/photo-1600258458093-bffe8ff54fda?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1250&q=80);
-  background-size; contain;
-  background-repeat:no-repeat;
-  height: 700px;
-  margin: 0 auto:auto;
-  width: 50%;
+  background-image: url(The Globetrotters.png);
+  height:700px;
+  margin: 0 auto;
+  width:50%;
+
 }
 
 h1 {
@@ -68,13 +12,4 @@ h1 {
   position:relative;
   text-align:center;
 
-}
-
-.layout {
-  background-image: url(#);
-  background-size; contain;
-  background-repeat:no-repeat;
-  height: 700px;
-  margin: 0 auto:auto;
-  width: 50%;
 }
