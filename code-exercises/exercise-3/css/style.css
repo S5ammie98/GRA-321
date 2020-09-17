@@ -23,7 +23,7 @@ ul{
   font-family: 'didot', serif;}
 
 
-/---Media Queries---/
+/*---Media Queries---*/
 @media screen and (max-width: 1000px) {
   body {
   background-color: #90604C;
