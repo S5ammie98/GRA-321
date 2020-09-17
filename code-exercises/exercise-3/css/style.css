@@ -23,7 +23,7 @@ ul{
   /*---Media Queries---*/
   @media screen and (max-width: 1000px) {
     body {
-      background-color: #90604C;
+      background-color: #FFF0F5;
   }}
 
 
@@ -34,5 +34,5 @@ ul{
 
   @media screen and (max-width: 250px) {
     body {
-      background-color: #C0A290;
+      background-color: #FAEBD7;
   }}
