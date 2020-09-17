@@ -14,8 +14,10 @@ h1 {
     font-family: 'Didot', serif;}
 
   p {
+    font-family: 'Didot', serif;
+    font-size:52px;
     text-alighn: left-align;
-    font-family: 'Didot', serif;}
+  }
 
 ul{
   color: black;
@@ -28,13 +30,14 @@ ul{
   body {
   background-color: #90604C;
 }
-
+}
 @media screen and (max-width: 500px) {
   body {
   background-color: #B98E77;
 }
-
+}
 @media screen and (max-width: 250px) {
   body {
   background-color: #C0A290;
+}
 }
