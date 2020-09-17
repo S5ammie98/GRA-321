@@ -1,0 +1,15 @@
+
+  button {
+    background-color: #14A171;
+    border: none;
+    color: white;
+    font-family: 'Didot', serif;
+    text-transformation: uppercase;
+    padding: 1em 2em 1em 2em;
+  }
+
+.padding-hover:hover {
+  Background-color: Grey;
+  color: white;
+  text-decoration: underline;
+}
