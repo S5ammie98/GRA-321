@@ -25,13 +25,10 @@ ul{
     body {
       background-color: #FFF0F5;
   }}
-
-
   @media screen and (max-width: 500px) {
     body {
       background-color: #B98E77;
   }}
-
   @media screen and (max-width: 250px) {
     body {
       background-color: #FAEBD7;
