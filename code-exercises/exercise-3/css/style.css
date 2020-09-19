@@ -6,18 +6,22 @@ h1 {
 
 }
   h2 {
-    text-alighn: center;
+    text-align: center;
     font-family: 'Didot', serif;}
+
+    body {
+      background-color: #FFF0F5;
+    }
 
   p {
     font-family: 'Didot', serif;
     font-size:52px;
-    text-alighn: left-align;
+    text-align: left-align;
   }
 
 ul{
   color: black;
-  text-alighn: left;
+  text-align: left;
   font-family: 'didot', serif;}
 
   /*---Media Queries---*/
