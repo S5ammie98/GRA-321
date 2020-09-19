@@ -6,16 +6,16 @@ h1 {
 
 }
   h2 {
-    text-alighn: center;
+    text-align: center;
     font-family: 'Didot', serif;}
 
   p {
-    text-alighn: left-align;
+    text-align: left-align;
     font-family: 'Didot', serif;}
 
 ul{
   color: black;
-  text-alighn: left;
+  text-align: left;
   font-family: 'didot', serif;}
 
   button {
@@ -23,14 +23,14 @@ ul{
     border: none;
     color: black;
     font-family: 'Didot', serif;
-    text-transformation: uppercase;
+    text-transform: uppercase;
     padding: 1em 2em 1em 2em;
   }
 
-a: hover { color: #968484; text-decoration: none;}
+a:hover { color: #968484; text-decoration: none;}
 
 .padding-hover:hover {
-  Background-color: Grey;
+  Background-color: Gray;
   color: white;
   text-decoration: underline;
 }
