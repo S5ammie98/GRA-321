@@ -11,17 +11,17 @@ h1 {
 }
   h2 {
     text-align: left;
-    font-size:36px;
+    font-size:24px;
     font-family: 'Didot', serif;}
 
     h3 {
       text-align: center;
-      font-size:32px;
+      font-size:20px;
       font-family: 'Helvetica', sans-serif;}
 
   p {
     text-align: left-align;
-    font-size: 24px;
+    font-size: 12px;
     font-family: 'Helvetica', sans-serif;
   }
 
@@ -33,15 +33,27 @@ h1 {
 .para1 {
 font-style: normal;
 float: left;
-padding: 20% 20%
+padding: 40px;
+height: 286px;
+width: 326px;
+padding: 20px;
+
 }
 
 .para2 {
   font-style: normal;
   float:left;
+  height: 366px;
+  width: 247px;
+  padding: 50px 20px;
+
 }
 
 .img1 {
+  float: left;
+}
+
+.img2 {
   float: left;
 }
 
@@ -50,7 +62,7 @@ padding: 20% 20%
 
 }
 
-.img1, .para2, .para1 {
+.img1, .para2, .para1, .img2 {
   width: 40%;
 
 
