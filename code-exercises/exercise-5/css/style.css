@@ -27,15 +27,31 @@ h1 {
 
 @-ms-viewport{
   width: device-width;
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 }
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
 
 .para1 {
 font-style: normal;
-text-align:left;
-line-height: 18px
-width: 326px;
-height: 286px;
+float: left;
+padding: 20% 20%
+}
+
+.para2 {
+  font-style: normal;
+  float:left;
+}
+
+.img1 {
+  float: left;
+}
+
+.container {
+  width: 100%;
+
+}
+
+.img1, .para2, .para1 {
+  width: 40%;
+
 
 }
