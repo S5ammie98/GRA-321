@@ -12,7 +12,15 @@ h1 {
   h2 {
     text-alighn: center;
     font-family: 'Didot', serif;}
-    
+
+    h3 {
+      text-alighn: center;
+      font-family: 'Didot', serif;}
+
+      h4 {
+        text-alighn: center;
+        font-family: 'Didot', serif;}
+
   p {
     text-alighn: left-align;
     font-family: 'Didot', serif;}
@@ -83,3 +91,9 @@ h1 {
   margin: 0 auto:auto;
   width: 50%;
 }
+
+@-ms-viewport{
+  width: device-width;
+}
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
