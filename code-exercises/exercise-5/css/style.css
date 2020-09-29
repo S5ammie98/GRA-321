@@ -11,10 +11,12 @@ h1 {
 }
   h2 {
     text-alighn: center;
+    font-size:36px;
     font-family: 'Didot', serif;}
 
     h3 {
       text-alighn: center;
+      font-size:32px;
       font-family: 'Didot', serif;}
 
       h4 {
@@ -22,7 +24,8 @@ h1 {
         font-family: 'Didot', serif;}
 
   p {
-    text-alighn: left-align;
+    text-align: left-align;
+    font-size: 24px;
     font-family: 'Didot', serif;}
 
 ul{
