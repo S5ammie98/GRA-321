@@ -9,14 +9,12 @@ h1 {
   font-size:24px;
   Position: relative;
   text-align:center;
-
 }
 
 h2 {
+text-align: center;
     font-size:20px;
-    font-family: 'Didot', serif;
-    text-align: center;
-  }
+    font-family: 'Didot', serif;}
 
 h3 {
 text-align: left;
@@ -70,7 +68,7 @@ ul{
 }
 
 .container {
-  background-image: img("Main Header");
+  background-image:
   height: 700px;
   margin: 0 auto;
   width: 50%;
