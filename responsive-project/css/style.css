@@ -11,10 +11,10 @@ padding: 0;
 width: 90%;
 margin: 0 auto;
 position: relative;
-background-color: honeydew;
+background-color: None;
 }
 
-h1 {
+  h1 {
   font-family: 'Didot', serif;
   font-size:24px;
   Position: relative;
@@ -114,14 +114,14 @@ display: inline-block;
 }
 
 .menu-item-row ul {
-  width:30%;
+  width:40%;
   list-style-type: none;
   float: right;
   text-align:right;
 }
 
 .menu-item-row ul li {
-  width:30%;
+  width:80%;
   display:inline-block;
 }
 
