@@ -1,0 +1,139 @@
+
+body {
+width: 100%;
+background-color: linen;
+margin: 0;
+padding: 0;
+}
+
+
+.page-container {
+width: 90%;
+margin: 0 auto;
+position: relative;
+background-color: None;
+}
+
+  h1 {
+  font-family: 'Didot', serif;
+  font-size:24px;
+  Position: relative;
+  text-align: center;
+
+}
+
+h2 {
+    font-size:20px;
+    font-family: 'Didot', serif;
+    text-align: center;
+  }
+
+h3 {
+text-align: left;
+font-size:18px;
+font-family: 'Didot', serif;
+padding-left: 10px; }
+
+h4 {
+text-align: left;
+font-weight: bold;
+font-size:16px;
+font-family: 'Didot', serif;}
+
+  h5 {
+  text-align: left;
+  font-weight: normal;
+  font-size:16px;
+  font-family: 'Didot', serif;}
+
+  p {
+    text-align: left;
+    font-size:16px;
+    font-weight: normal;
+    font-family: 'Didot', serif;}
+
+ul{
+  color: black;
+  font-size:18px;
+  font-weight: normal;
+  text-align: left;
+  font-family: 'didot', serif;}
+
+.header-banner {
+  background-image: url("https://lindseymariegomez.github.io/fall-2020/img/fall-3.jpg");
+  height:250px;
+  background-size: cover;
+  background-position: bottom center;
+  position: relative;
+  width:100%;
+  text-align:center;
+}
+
+.white-box {
+  background-color:white;
+  border: 1px solid black;
+  padding:5px;
+}
+
+.header-nav h2, .header-banner h1{
+    width: 30%;
+    margin: 10px auto;
+}
+
+.header-nav h2, .header-banner h1, header h2 {
+  display: block;
+}
+
+.header-banner  {
+  padding-top: 20px;
+}
+
+h3 {
+display: inline-block;
+}
+
+.menu-item-row {
+  width: 100%;
+  display:flex;
+  justify-content: space-between;
+  align-items:flex-start;
+  padding: 0 0 1rem 0;
+  background-color: none;
+}
+
+.menu-item-row h4 {
+  width:30%;
+}
+
+.title-description {
+  width:70%;
+}
+
+.title-description h4 {
+  width:100%;
+}
+
+.menu-item-row ul {
+  width:40%;
+  list-style-type: none;
+  float: right;
+  text-align:right;
+}
+
+.menu-item-row ul li {
+  width:80%;
+  display:inline-block;
+}
+
+@media only screen and (min-width:400px) {
+
+  #section-hot-cold {
+  display: flex;
+  width: 100%;
+   justify-content: space-between;
+    }
+
+  .column-left, .column-right {
+  width: 48%;
+
+}
