@@ -69,15 +69,13 @@ ul{
   text-align:center;
 }
 
-.img-banner {
-  background-image: url("https://lindseymariegomez.github.io/fall-2020/img/fall-3.jpg");
-  height:250px;
-  background-size: cover;
-  background-position: bottom center;
-  position: relative;
-  width:100%;
-  text-align:center;
-}
+.img-banner{
+    height: relative ;
+    position: relative;
+    width:100%;
+    text-align:center;
+  }
+
 
 .white-box {
   background-color:white;
