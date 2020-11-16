@@ -41,7 +41,7 @@ font-size:16px;
 font-family: 'Didot', serif;}
 
   h5 {
-  text-align: left;
+  text-align: center;
   font-weight: normal;
   font-size:16px;
   font-family: 'Didot', serif;}
@@ -60,7 +60,7 @@ ul{
   font-family: 'didot', serif;}
 
 .header-banner {
-  background-image: url("https://lindseymariegomez.github.io/fall-2020/img/fall-3.jpg");
+  background-image: url("https://lindseymariegomez.github.io/fall-2020/shillenburg/main-header.jpeg");
   height:250px;
   background-size: cover;
   background-position: bottom center;
