@@ -35,7 +35,7 @@ h1 {
 
 .para1 {
 font-style: normal;
-float: left;
+float: right;
 padding: 40px;
 height: 286px;
 width: 326px;
@@ -45,7 +45,7 @@ padding: 20px;
 
 .para2 {
   font-style: normal;
-  float:right;
+  float:left;
   height: 366px;
   width: 35%;
   padding: 35px;
@@ -54,12 +54,12 @@ padding: 20px;
 }
 
 .img1 {
-  float: right;
+  float: left;
   padding: 10px;
 }
 
 .img2 {
-  float: left;
+  float: right;
   padding: 10px;
 }
 
