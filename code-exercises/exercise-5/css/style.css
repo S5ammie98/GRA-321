@@ -70,4 +70,11 @@ padding: 20px;
 .img1, .para2, .para1, .img2 {
   width: 40% 20%;}
 
+.globe{
+  Position: absolute;
+  Top: 100px;
+  left: 40px;
+  color: white;
+}
+
 }
