@@ -122,15 +122,19 @@ display: inline-block;
 }
 
 .menu-item-row ul {
-  width:40%;
+  width:100%;
   list-style-type: none;
+  justify-content: space-between;
   float: right;
   text-align:right;
 }
 
 .menu-item-row ul li {
-  width:80%;
+  width:50%;
+  justify-content: space-between;
   display:inline-block;
+  column-gap: 40px;
+  margin: 10px;
 }
 
 button {
@@ -169,12 +173,15 @@ width:100%;
 justify-content: space-between;}
 
   .column-left, .column-right,  {
-  width: 48%;
+  width: 30%;
+  margin: 10px;
+  flex-direction: row-reverse;
+justify-content: space-between;
 
 }
 
 .img-column, .locations-column {
-width: 30%; }
+width: 80%; }
 
 
 }
